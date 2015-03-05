@@ -9,7 +9,7 @@ Development Status
 
 
 Name | Description | Status
--|-|-
+-----|-------------|--------
 Code cleanup | The code is (partly very) old and needs rework to run | Finished :heavy_check_mark:
 Beta Tests | Adding a crash reporter, for the beta builds | Finished :heavy_check_mark:
 Renew updater | Rewrite Redline's builtin updater | Finished :heavy_check_mark:
