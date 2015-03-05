@@ -29,6 +29,9 @@ The following people have asked to be beta testers:
 
 - Valentin K
 - Aleksi
+- Michael (`joebagonuts`)
+- Steven (`Amp`)
+- Aldo (`kopje`)
 
 If you want to test it, too, ask me. Please note that this could get really annoying, as Redline Beta is not stable and will likely crash. And I'll ask many questions about that...
 
