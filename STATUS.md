@@ -15,7 +15,7 @@ Name | Description | Status
 Code cleanup | The code is (partly very) old and needs rework to run | Finished :heavy_check_mark:
 Beta Tests | Adding a crash reporter, for the beta builds | Finished :heavy_check_mark:
 Renew updater | Rewrite Redline's builtin updater | Finished :heavy_check_mark:
-Rewrite Time Trial | The underlying structure isn't usable anymore | **Working**
+Rewrite Time Trial | The underlying structure isn't usable anymore | Finished :heavy_check_mark:
 Rewrite Multiplayer | The whole Multiplayer communication needs to be rewritten | *Waiting*
 Tracker/Server | Impossible to use ASWs Tracker anymore (cya old records :sob:) | **Working**
 Remove ASW Framework | Due to copyright problems, I can't distribute the ASW framework. Must be completely replaced. | **Working**
