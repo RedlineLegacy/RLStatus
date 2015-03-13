@@ -16,9 +16,11 @@ Code cleanup | The code is (partly very) old and needs rework to run | Finished 
 Beta Tests | Adding a crash reporter, for the beta builds | Finished :heavy_check_mark:
 Renew updater | Rewrite Redline's builtin updater | Finished :heavy_check_mark:
 Rewrite Time Trial | The underlying structure isn't usable anymore | Finished :heavy_check_mark:
-Rewrite Multiplayer | The whole Multiplayer communication needs to be rewritten | **Working**
+Rewrite Multiplayer Communication | The whole Multiplayer communication needs to be rewritten | **Working**
+Rewrite Multiplayer Lobby | The lobby currently works with ASWs server; change structure and server | **Working**
+Rewrite Multiplayer P2P | Rewrite in-game (Point-to-Point) communication | *Waiting*
 Tracker/Server | Impossible to use ASWs Tracker anymore (cya old records :sob:) | **Working**
-Remove ASW Framework | Due to copyright problems, I can't distribute the ASW framework. Must be completely replaced. | **Working**
+Remove ASW Framework | Due to copyright problems, I can't distribute the ASW framework. Must be completely replaced. (Just the Sound Libraries are left! :smile:) | **Working**
 Online Overview | Create a webpage with a) lap times, b) the Mulitplayer lobby | *Waiting*
 
 
