@@ -46,5 +46,7 @@ Screenshots
 Because why not.
 
 ![Screenshot1](http://i.imgur.com/qq6rF8o.jpg)
-![Screenshot2](http://i.imgur.com/MWfcVIs.jpg)
 (5-Mar-15)
+
+![Screenshot2](http://i.imgur.com/MWfcVIs.jpg)
+(13-Mar-15)
