@@ -21,6 +21,7 @@ Rewrite Multiplayer Lobby | The lobby currently works with ASWs server; change s
 Rewrite Multiplayer P2P | Rewrite in-game (Point-to-Point) communication | *Waiting*
 Tracker/Server | Impossible to use ASWs Tracker anymore (cya old records :sob:) | **Working**
 Remove ASW Framework | Due to copyright problems, I can't distribute the ASW framework. Must be completely replaced. (Just the Sound Libraries are left! :smile:) | **Working**
+Remove Carbon Framework | [Carbon]("http://en.wikipedia.org/wiki/Carbon_(API)") is old (used for OS9/OSX, so from ~2001) and needs to be removed for 64-bit support | **Working** (Priority)
 Online Overview | Create a webpage with a) lap times, b) the Mulitplayer lobby | *Waiting*
 
 
