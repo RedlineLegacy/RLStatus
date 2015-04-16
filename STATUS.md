@@ -17,7 +17,7 @@ Beta Tests | Adding a crash reporter, for the beta builds | Finished :heavy_chec
 Renew updater | Rewrite Redline's builtin updater | Finished :heavy_check_mark:
 Rewrite Time Trial | The underlying structure isn't usable anymore | Finished :heavy_check_mark:
 Rewrite Multiplayer Communication | The whole Multiplayer communication needs to be rewritten | Finished :heavy_check_mark:
-Rewrite Multiplayer Lobby | The lobby currently works with ASWs server; change structure and server | **Working**
+Rewrite Multiplayer Lobby | The lobby currently works with ASWs server; change structure and server | Finished :heavy_check_mark:
 Rewrite Multiplayer P2P | Rewrite in-game (Point-to-Point) communication | *Waiting*
 Tracker/Server | Impossible to use ASWs Tracker anymore (cya old records :sob:) | **Working**
 Remove ASW Framework | Due to copyright problems, I can't distribute the ASW framework. Must be completely replaced. (Just the Sound Libraries are left! :smile:) | **Working**
