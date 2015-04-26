@@ -39,6 +39,7 @@ The following people have asked to be beta testers:
 - Aldo (`kopje`)
 - Bob (`bobrk`)
 - Laurids
+- Peter (`AmateurLobster`)
 
 If you want to be a Beta Tester too, ask me. Please note that this could get really annoying, as Redline Beta is not stable and will likely crash. And I'll ask many questions about that...
 
