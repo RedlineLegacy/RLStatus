@@ -9,6 +9,8 @@ Some of you have already noticed that I'm working on Redline 1.1.
 Development Status
 ---
 
+11-Jun-15 **Note**: I am currently busy with work and university stuff, that means *Redline Legacy* development is currently paused. In about 4 weeks, I'll be able to work on it again. Stay tuned! :blush:
+
 
 Name | Description | Status
 -----|-------------|--------
